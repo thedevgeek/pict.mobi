@@ -1,0 +1,560 @@
+TUploader
+v7
+r0
+t311468770.796860
+cCheck dependencies
+cPreprocess /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist Uploader-Info.plist
+cProcessInfoPlistFile /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Info.plist /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist
+cCompileXIB /Users/smwbmw/Documents/Pict.Mobi/UploaderViewController.xib
+cCpResource build/Debug-iphonesimulator/Uploader.app/pictmobi.png pictmobi.png
+cCompileXIB "/Volumes/MAC 1/Uploader/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/Uploader.app/bg_header.png "/Volumes/MAC 1/Uploader/bg_header.png"
+cProcessPCH /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-aedmcajvadcakwfzhjdsfiszvgut/Uploader_Prefix.pch.gch Uploader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o /Users/smwbmw/Documents/Pict.Mobi/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o /Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o /Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Uploader normal i386
+cGenerateDSYMFile /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app.dSYM /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Uploader
+cTouch /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderAppDelegate.h
+c000000004CD8588D00000000000001E1
+t1289246861
+s481
+i<UIKit/UIKit.h>
+
+N/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderAppDelegate.m
+c000000004CD8588D0000000000000A8C
+t1289246861
+s2700
+i"UploaderAppDelegate.h"
+i"UploaderViewController.h"
+
+N/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.h
+c000000004CD8624500000000000001AA
+t1289249349
+s426
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.m
+c000000004CE027C9000000000000095C
+t1289758665
+s2396
+i"UploaderViewController.h"
+
+N/Users/smwbmw/Documents/Pict.Mobi/MainWindow.xib
+c000000004CD8588D0000000000004E35
+t1289246861
+s20021
+
+N/Users/smwbmw/Documents/Pict.Mobi/UploaderViewController.xib
+c000000004CE06A93000000000000639E
+t1289775763
+s25502
+
+N/Users/smwbmw/Documents/Pict.Mobi/Uploader_Prefix.pch
+c000000004CD8588D00000000000000B9
+t1289246861
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app
+t1289775766
+s306
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app.dSYM
+t1289758703
+s102
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Info.plist
+t1289504139
+s632
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/MainWindow.nib
+t1289774147
+s1683
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/PkgInfo
+t1289504139
+s8
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Uploader
+t1289758703
+s18164
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/UploaderViewController.nib
+t1289775766
+s3224
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/bg_header.png
+t1289625646
+s51046
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/pictmobi.png
+t1289510546
+s4244
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/Uploader.LinkFileList
+c000000004CDC46140000000000000186
+t1289504276
+s390
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o
+t1289504277
+s47884
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o
+t1289758703
+s46868
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o
+t1289504277
+s6292
+
+N/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist
+t1289504139
+s923
+
+N/Users/smwbmw/Documents/Pict.Mobi/main.m
+c000000004CD8588D0000000000000166
+t1289246861
+s358
+i<UIKit/UIKit.h>
+
+N/Users/smwbmw/Documents/Pict.Mobi/pictmobi.png
+c000000004CDC5E4F0000000000001094
+t1289510479
+s4244
+
+N/Users/smwbmw/Documents/Uploader/Classes/UploaderAppDelegate.h
+c000000004CD8588D00000000000001E1
+t1289246861
+s481
+i<UIKit/UIKit.h>
+
+N/Users/smwbmw/Documents/Uploader/Classes/UploaderAppDelegate.m
+c000000004CD8588D0000000000000A8C
+t1289246861
+s2700
+i"UploaderAppDelegate.h"
+i"UploaderViewController.h"
+
+N/Users/smwbmw/Documents/Uploader/Classes/UploaderViewController.h
+c000000004CD8624500000000000001AA
+t1289249349
+s426
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/smwbmw/Documents/Uploader/Classes/UploaderViewController.m
+c000000004CF688440000000000000966
+t1291225156
+s2406
+i"UploaderViewController.h"
+
+N/Users/smwbmw/Documents/Uploader/MainWindow.xib
+c000000004CD8588D0000000000004E35
+t1289246861
+s20021
+
+N/Users/smwbmw/Documents/Uploader/UploaderViewController.xib
+c000000004CD85D550000000000005E03
+t1289248085
+s24067
+
+N/Users/smwbmw/Documents/Uploader/Uploader_Prefix.pch
+c000000004CD8588D00000000000000B9
+t1289246861
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/smwbmw/Documents/Uploader/bg_header.png
+c000000004CD85AA0000000000000C766
+t1289247392
+s51046
+
+N/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app
+t1289504142
+s272
+
+N/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app.dSYM
+t1289504142
+s102
+
+N/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Info.plist
+t1289504139
+s632
+
+N/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/MainWindow.nib
+t1289504140
+s1683
+
+N/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/PkgInfo
+t1289504139
+s8
+
+N/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Uploader
+t1289504142
+s18160
+
+N/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/UploaderViewController.nib
+t1289504140
+s2966
+
+N/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/bg_header.png
+t1289248218
+s51046
+
+N/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/pictmobi.png
+t1289504140
+s5057
+
+N/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/Uploader.LinkFileList
+c000000004CDC458B0000000000000183
+t1289504139
+s387
+
+N/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o
+t1289504141
+s47880
+
+N/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o
+t1289504141
+s46876
+
+N/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o
+t1289504141
+s6292
+
+N/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist
+t1289504139
+s923
+
+N/Users/smwbmw/Documents/Uploader/main.m
+c000000004CD8588D0000000000000166
+t1289246861
+s358
+i<UIKit/UIKit.h>
+
+N/Users/smwbmw/Documents/Uploader/pictmobi.png
+c000000004CDC44BA00000000000013C1
+t1289503930
+s5057
+
+N/Volumes/MAC 1/Uploader/MainWindow.xib
+c000000004CE064400000000000005780
+t1289774144
+s22400
+
+N/Volumes/MAC 1/Uploader/bg_header.png
+c000000004CD85AA0000000000000C766
+t1289247392
+s51046
+
+N/var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-aedmcajvadcakwfzhjdsfiszvgut/Uploader_Prefix.pch.gch
+t1289504277
+s10204720
+
+N/var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-fjqhwxkfsguvjzffcmahaogtxgzj/Uploader_Prefix.pch.gch
+t1289504141
+s10204720
+
+NUploader-Info.plist
+c000000004CDC45420000000000000399
+t1289504066
+s921
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311468770#311468770#0(0"0(0#1#0"2570277520#0"0#
+
+CCompileC build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o /Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311197077.244963
+e311197077.369839
+r1
+xCompileC
+xbuild/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o
+x/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderAppDelegate.m311197077#311197077#0(0"0(0#0#63"/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderAppDelegate.m2458800064#1917"    cd /Users/smwbmw/Documents/Pict.Mobi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-generated-files.hmap -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-own-target-headers.hmap -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-all-target-headers.hmap -iquote /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-project-headers.hmap -F/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator -I/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/include -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources/i386 -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources -include /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-aedmcajvadcakwfzhjdsfiszvgut/Uploader_Prefix.pch -c /Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderAppDelegate.m -o /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o0#
+
+CCompileC build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o /Users/smwbmw/Documents/Uploader/Classes/UploaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311196941.535750
+e311196941.654968
+r1
+xCompileC
+xbuild/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o
+x/Users/smwbmw/Documents/Uploader/Classes/UploaderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/smwbmw/Documents/Uploader/Classes/UploaderAppDelegate.m311196941#311196941#0(0"0(0#0#62"/Users/smwbmw/Documents/Uploader/Classes/UploaderAppDelegate.m2458800064#1906"    cd /Users/smwbmw/Documents/Uploader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-generated-files.hmap -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-own-target-headers.hmap -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-all-target-headers.hmap -iquote /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-project-headers.hmap -F/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator -I/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/include -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources/i386 -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources -include /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-fjqhwxkfsguvjzffcmahaogtxgzj/Uploader_Prefix.pch -c /Users/smwbmw/Documents/Uploader/Classes/UploaderAppDelegate.m -o /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o0#
+
+CCompileC build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o /Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311451503.069569
+e311451503.241944
+r1
+xCompileC
+xbuild/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o
+x/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.m: In function '-[UploaderViewController pushUpload:]':
+o/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.m:46: warning: format not a string literal and no format arguments
+lSLF07#2@74"Compile /Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.m311451503#311451503#0(253"/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.m: In function '-[UploaderViewController pushUpload:]':/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.m:46: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments311451503#121#132#0(6@66"/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.m311451465#46#0#46#0#51"format not a string literal and no format arguments0(0#0#66"/Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.m2570277520#1923"    cd /Users/smwbmw/Documents/Pict.Mobi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-generated-files.hmap -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-own-target-headers.hmap -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-all-target-headers.hmap -iquote /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-project-headers.hmap -F/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator -I/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/include -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources/i386 -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources -include /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-aedmcajvadcakwfzhjdsfiszvgut/Uploader_Prefix.pch -c /Users/smwbmw/Documents/Pict.Mobi/Classes/UploaderViewController.m -o /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o0#
+
+CCompileC build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o /Users/smwbmw/Documents/Uploader/Classes/UploaderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311196941.642008
+e311196941.809188
+r1
+xCompileC
+xbuild/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o
+x/Users/smwbmw/Documents/Uploader/Classes/UploaderViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/smwbmw/Documents/Uploader/Classes/UploaderViewController.m: In function '-[UploaderViewController pushUpload:]':
+o/Users/smwbmw/Documents/Uploader/Classes/UploaderViewController.m:45: warning: format not a string literal and no format arguments
+lSLF07#2@73"Compile /Users/smwbmw/Documents/Uploader/Classes/UploaderViewController.m311196941#311196941#0(251"/Users/smwbmw/Documents/Uploader/Classes/UploaderViewController.m: In function '-[UploaderViewController pushUpload:]':/Users/smwbmw/Documents/Uploader/Classes/UploaderViewController.m:45: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments311196941#120#131#0(6@65"/Users/smwbmw/Documents/Uploader/Classes/UploaderViewController.m312917956#45#0#45#0#51"format not a string literal and no format arguments0(0#0#65"/Users/smwbmw/Documents/Uploader/Classes/UploaderViewController.m2458800064#1912"    cd /Users/smwbmw/Documents/Uploader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-generated-files.hmap -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-own-target-headers.hmap -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-all-target-headers.hmap -iquote /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-project-headers.hmap -F/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator -I/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/include -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources/i386 -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources -include /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-fjqhwxkfsguvjzffcmahaogtxgzj/Uploader_Prefix.pch -c /Users/smwbmw/Documents/Uploader/Classes/UploaderViewController.m -o /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o0#
+
+CCompileC build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o /Users/smwbmw/Documents/Pict.Mobi/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311197077.243252
+e311197077.322798
+r1
+xCompileC
+xbuild/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o
+x/Users/smwbmw/Documents/Pict.Mobi/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/smwbmw/Documents/Pict.Mobi/main.m311197077#311197077#0(0"0(0#0#40"/Users/smwbmw/Documents/Pict.Mobi/main.m4231240#1879"    cd /Users/smwbmw/Documents/Pict.Mobi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-generated-files.hmap -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-own-target-headers.hmap -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-all-target-headers.hmap -iquote /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-project-headers.hmap -F/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator -I/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/include -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources/i386 -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources -include /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-aedmcajvadcakwfzhjdsfiszvgut/Uploader_Prefix.pch -c /Users/smwbmw/Documents/Pict.Mobi/main.m -o /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o /Users/smwbmw/Documents/Uploader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311196941.534449
+e311196941.641804
+r1
+xCompileC
+xbuild/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o
+x/Users/smwbmw/Documents/Uploader/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/smwbmw/Documents/Uploader/main.m311196941#311196941#0(0"0(0#0#39"/Users/smwbmw/Documents/Uploader/main.m2458800064#1868"    cd /Users/smwbmw/Documents/Uploader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-generated-files.hmap -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-own-target-headers.hmap -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-all-target-headers.hmap -iquote /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-project-headers.hmap -F/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator -I/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/include -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources/i386 -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources -include /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-fjqhwxkfsguvjzffcmahaogtxgzj/Uploader_Prefix.pch -c /Users/smwbmw/Documents/Uploader/main.m -o /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Volumes/MAC 1/Uploader/MainWindow.xib"
+s311466946.496635
+e311466947.270387
+r1
+xCompileXIB
+x/Volumes/MAC 1/Uploader/MainWindow.xib
+lSLF07#2@51"CompileXIB "/Volumes/MAC 1/Uploader/MainWindow.xib"311466946#311466947#0(0"0(0#0#38"/Volumes/MAC 1/Uploader/MainWindow.xib2570277520#548"    cd /Users/smwbmw/Documents/Pict.Mobi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/MainWindow.nib "/Volumes/MAC 1/Uploader/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/smwbmw/Documents/Pict.Mobi/MainWindow.xib
+r0
+
+CCompileXIB /Users/smwbmw/Documents/Pict.Mobi/UploaderViewController.xib
+s311468566.060442
+e311468566.839728
+r1
+xCompileXIB
+x/Users/smwbmw/Documents/Pict.Mobi/UploaderViewController.xib
+lSLF07#2@37"CompileXIB UploaderViewController.xib311468566#311468566#0(0"0(0#0#60"/Users/smwbmw/Documents/Pict.Mobi/UploaderViewController.xib2570277520#580"    cd /Users/smwbmw/Documents/Pict.Mobi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/UploaderViewController.nib /Users/smwbmw/Documents/Pict.Mobi/UploaderViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/smwbmw/Documents/Uploader/MainWindow.xib
+s311196939.832920
+e311196940.553474
+r1
+xCompileXIB
+x/Users/smwbmw/Documents/Uploader/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311196939#311196940#0(0"0(0#0#47"/Users/smwbmw/Documents/Uploader/MainWindow.xib2458800064#553"    cd /Users/smwbmw/Documents/Uploader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/MainWindow.nib /Users/smwbmw/Documents/Uploader/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/smwbmw/Documents/Uploader/UploaderViewController.xib
+s311196939.834662
+e311196940.579790
+r1
+xCompileXIB
+x/Users/smwbmw/Documents/Uploader/UploaderViewController.xib
+lSLF07#2@37"CompileXIB UploaderViewController.xib311196939#311196940#0(0"0(0#0#59"/Users/smwbmw/Documents/Uploader/UploaderViewController.xib2458800064#577"    cd /Users/smwbmw/Documents/Uploader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/UploaderViewController.nib /Users/smwbmw/Documents/Uploader/UploaderViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Uploader.app/bg_header.png "/Volumes/MAC 1/Uploader/bg_header.png"
+s311318446.326095
+e311318446.489422
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Uploader.app/bg_header.png
+x/Volumes/MAC 1/Uploader/bg_header.png
+lSLF07#2@42"Copy /Volumes/MAC 1/Uploader/bg_header.png311318446#311318446#0(0"0(0#0#37"/Volumes/MAC 1/Uploader/bg_header.png4717520#435"    cd /Users/smwbmw/Documents/Pict.Mobi    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Volumes/MAC 1/Uploader/bg_header.png" /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app0#
+
+CCpResource build/Debug-iphonesimulator/Uploader.app/bg_header.png bg_header.png
+s310941018.306319
+e310941018.356408
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Uploader.app/bg_header.png
+xbg_header.png
+lSLF07#2@18"Copy bg_header.png310941018#310941018#0(0"0(0#0#46"/Users/smwbmw/Documents/Uploader/bg_header.png4231240#440"    cd /Users/smwbmw/Documents/Uploader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/smwbmw/Documents/Uploader/bg_header.png /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app0#
+
+CCpResource build/Debug-iphonesimulator/Uploader.app/pictmobi.png pictmobi.png
+s311203346.478430
+e311203346.525263
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Uploader.app/pictmobi.png
+xpictmobi.png
+lSLF07#2@17"Copy pictmobi.png311203346#311203346#0(0"0(0#0#46"/Users/smwbmw/Documents/Pict.Mobi/pictmobi.png4231240#442"    cd /Users/smwbmw/Documents/Pict.Mobi    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/smwbmw/Documents/Pict.Mobi/pictmobi.png /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app0#
+
+CGenerateDSYMFile /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app.dSYM /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Uploader
+s311451503.290517
+e311451503.318950
+r1
+xGenerateDSYMFile
+x/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app.dSYM
+x/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Uploader
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Uploader.app.dSYM build/Debug-iphonesimulator/Uploader.app/Uploader311451503#311451503#0(0"0(0#0#83"/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Uploader2570277520#371"    cd /Users/smwbmw/Documents/Pict.Mobi    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Uploader -o /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app.dSYM0#
+
+CGenerateDSYMFile /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app.dSYM /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Uploader
+s311196942.156235
+e311196942.231129
+r1
+xGenerateDSYMFile
+x/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app.dSYM
+x/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Uploader
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Uploader.app.dSYM build/Debug-iphonesimulator/Uploader.app/Uploader311196942#311196942#0(0"0(0#0#82"/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Uploader2458800064#368"    cd /Users/smwbmw/Documents/Uploader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Uploader -o /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app.dSYM0#
+
+CLd /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Uploader normal i386
+s311451503.242051
+e311451503.290407
+r1
+xLd
+x/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Uploader
+xnormal
+xi386
+lSLF07#2@88"Link /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Uploader311451503#311451503#0(0"0(0#0#0"2570277520#880"    cd /Users/smwbmw/Documents/Pict.Mobi    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator -F/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator -filelist /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/Uploader.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Uploader0#
+
+CLd /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Uploader normal i386
+s311196941.809404
+e311196942.156111
+r1
+xLd
+x/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Uploader
+xnormal
+xi386
+lSLF07#2@87"Link /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Uploader311196941#311196942#0(0"0(0#0#0"2458800064#875"    cd /Users/smwbmw/Documents/Uploader    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator -F/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator -filelist /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/Uploader.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Uploader0#
+
+CPreprocess /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist Uploader-Info.plist
+r0
+
+CPreprocess /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist Uploader-Info.plist
+s311196939.739190
+e311196939.822849
+r1
+xPreprocess
+x/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist
+xUploader-Info.plist
+lSLF07#2@112"Preprocess build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist Uploader-Info.plist311196939#311196939#0(0"0(0#0#52"/Users/smwbmw/Documents/Uploader/Uploader-Info.plist2458800064#425"    cd /Users/smwbmw/Documents/Uploader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/gcc -E -P -x c -Wno-trigraphs Uploader-Info.plist -F/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator -o /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist0#
+
+CProcessInfoPlistFile /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app/Info.plist /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Info.plist /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist
+s311196939.823120
+e311196939.832712
+r1
+xProcessInfoPlistFile
+x/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Info.plist
+x/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist
+lSLF07#2@122"Process /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist311196939#311196939#0(0"0(0#0#114"/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist2458800064#559"    cd /Users/smwbmw/Documents/Uploader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist -genpkginfo /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Info.plist Uploader-Info.plist
+s310942230.409649
+e310942230.426772
+r1
+xProcessInfoPlistFile
+x/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Info.plist
+xUploader-Info.plist
+lSLF07#2@27"Process Uploader-Info.plist310942230#310942230#0(0"0(0#0#52"/Users/smwbmw/Documents/Uploader/Uploader-Info.plist4717520#464"    cd /Users/smwbmw/Documents/Uploader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Uploader-Info.plist -genpkginfo /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Info.plist0#
+
+CProcessPCH /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-aedmcajvadcakwfzhjdsfiszvgut/Uploader_Prefix.pch.gch Uploader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311197076.289771
+e311197077.243130
+r1
+xProcessPCH
+x/var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-aedmcajvadcakwfzhjdsfiszvgut/Uploader_Prefix.pch.gch
+xUploader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Uploader_Prefix.pch311197076#311197077#0(0"0(0#0#53"/Users/smwbmw/Documents/Pict.Mobi/Uploader_Prefix.pch4231240#1775"    cd /Users/smwbmw/Documents/Pict.Mobi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-generated-files.hmap -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-own-target-headers.hmap -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-all-target-headers.hmap -iquote /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-project-headers.hmap -F/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator -I/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/include -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources/i386 -I/Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources -c /Users/smwbmw/Documents/Pict.Mobi/Uploader_Prefix.pch -o /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-aedmcajvadcakwfzhjdsfiszvgut/Uploader_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-fjqhwxkfsguvjzffcmahaogtxgzj/Uploader_Prefix.pch.gch Uploader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311196940.579981
+e311196941.534143
+r1
+xProcessPCH
+x/var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-fjqhwxkfsguvjzffcmahaogtxgzj/Uploader_Prefix.pch.gch
+xUploader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Uploader_Prefix.pch311196940#311196941#0(0"0(0#0#52"/Users/smwbmw/Documents/Uploader/Uploader_Prefix.pch2458800064#1765"    cd /Users/smwbmw/Documents/Uploader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-generated-files.hmap -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-own-target-headers.hmap -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-all-target-headers.hmap -iquote /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Uploader-project-headers.hmap -F/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator -I/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/include -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources/i386 -I/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/DerivedSources -c /Users/smwbmw/Documents/Uploader/Uploader_Prefix.pch -o /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-fjqhwxkfsguvjzffcmahaogtxgzj/Uploader_Prefix.pch.gch0#
+
+CTouch /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app
+s311468566.841961
+e311468566.825721
+r1
+xTouch
+x/Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app
+lSLF07#2@80"Touch /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app311468566#311468566#0(0"0(0#0#0"2570277520#269"    cd /Users/smwbmw/Documents/Pict.Mobi    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/smwbmw/Documents/Pict.Mobi/build/Debug-iphonesimulator/Uploader.app0#
+
+CTouch /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app
+s311196942.231313
+e311196942.236694
+r1
+xTouch
+x/Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app
+lSLF07#2@79"Touch /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app311196942#311196942#0(0"0(0#0#0"2458800064#267"    cd /Users/smwbmw/Documents/Uploader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app0#
+
