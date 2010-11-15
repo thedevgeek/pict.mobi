@@ -9,7 +9,10 @@
 
 @implementation UploaderViewController
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 - (IBAction)pushPick:(id)sender {
     UIImagePickerController *picker = [[UIImagePickerController alloc] init];
 	picker.delegate = self;
@@ -22,7 +25,11 @@
 
 - (IBAction)pushUpload:(id)sender {
 	NSData *imageData = UIImageJPEGRepresentation(imageView.image, 90);
+<<<<<<< HEAD
 	NSString *urlString = @"http://www.thedevgeek.com/mobi";
+=======
+	NSString *urlString = @"http://www.thedevgeek.com/mobi/upload.php";
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 	
 	NSMutableURLRequest *request = [[[NSMutableURLRequest alloc] init] autorelease];
 	[request setURL:[NSURL URLWithString:urlString]];

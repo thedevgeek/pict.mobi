@@ -1,12 +1,20 @@
 TUploader
 v7
 r0
+<<<<<<< HEAD
 t311196867.363810
+=======
+t311010275.409535
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 cCheck dependencies
 cProcessInfoPlistFile /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app/Info.plist Uploader-Info.plist
 cCompileXIB /Users/smwbmw/Documents/Uploader/MainWindow.xib
 cCompileXIB /Users/smwbmw/Documents/Uploader/UploaderViewController.xib
+<<<<<<< HEAD
 cCopyPNGFile /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app/pictmobi.png pictmobi.png
+=======
+cCopyPNGFile /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app/bg_header.png bg_header.png
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 cProcessPCH /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-btfgtlzsuysfyqfnucfdubggvndr/Uploader_Prefix.pch.gch Uploader_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
 cProcessPCH /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-eukhpfbacuvdaqcowvunflnxhfll/Uploader_Prefix.pch.gch Uploader_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Uploader.build/Release-iphoneos/Uploader.build/Objects-normal/armv6/main.o /Users/smwbmw/Documents/Uploader/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
@@ -106,6 +114,7 @@ i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
 N/Users/smwbmw/Documents/Uploader/bg_header.png
+<<<<<<< HEAD
 c00000000000000000000000000000000
 t2
 s0
@@ -113,6 +122,15 @@ s0
 N/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app
 t1289504066
 s306
+=======
+c000000004CD85AA0000000000000C766
+t1289247392
+s51046
+
+N/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app
+t1291228728
+s272
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 
 N/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app.dSYM
 t1291228728
@@ -146,10 +164,13 @@ N/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app/bg_header.
 t1291228726
 s74767
 
+<<<<<<< HEAD
 N/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app/pictmobi.png
 t1289504066
 s4903
 
+=======
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 N/Users/smwbmw/Documents/Uploader/build/Uploader.build/Release-iphoneos/Uploader.build/Objects-normal/armv6/Uploader
 t1291228728
 s18148
@@ -206,11 +227,14 @@ t1289246861
 s358
 i<UIKit/UIKit.h>
 
+<<<<<<< HEAD
 N/Users/smwbmw/Documents/Uploader/pictmobi.png
 c000000004CDC44BA00000000000013C1
 t1289503930
 s5057
 
+=======
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 N/var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-btfgtlzsuysfyqfnucfdubggvndr/Uploader_Prefix.pch.gch
 t1291228727
 s9639472
@@ -220,6 +244,7 @@ t1291228727
 s10094128
 
 NUploader-Info.plist
+<<<<<<< HEAD
 c000000004CDC45420000000000000399
 t1289504066
 s921
@@ -227,6 +252,15 @@ s921
 CCheck dependencies
 r0
 lSLF07#2@18"Check dependencies311196866#311196866#0(0"0(0#1#0"4231240#0"0#
+=======
+c000000004CF6959C000000000000039A
+t1291228572
+s922
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311010273#311010273#0(0"0(0#1#0"4231240#0"0#
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 
 CCodeSign /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app
 s312920949.588574
@@ -348,6 +382,7 @@ x/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app/bg_header.
 xbg_header.png
 lSLF07#2@75"CopyPNGFile build/Release-iphoneos/Uploader.app/bg_header.png bg_header.png312921526#312921526#0(0"0(0#0#46"/Users/smwbmw/Documents/Uploader/bg_header.png2458800064#551"    cd /Users/smwbmw/Documents/Uploader    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/smwbmw/Documents/Uploader/bg_header.png /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app/bg_header.png0#
 
+<<<<<<< HEAD
 CCopyPNGFile /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app/pictmobi.png pictmobi.png
 s311196866.558164
 e311196866.882272
@@ -357,6 +392,8 @@ x/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app/pictmobi.p
 xpictmobi.png
 lSLF07#2@73"CopyPNGFile build/Release-iphoneos/Uploader.app/pictmobi.png pictmobi.png311196866#311196866#0(0"0(0#0#45"/Users/smwbmw/Documents/Uploader/pictmobi.png4231240#549"    cd /Users/smwbmw/Documents/Uploader    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/smwbmw/Documents/Uploader/pictmobi.png /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app/pictmobi.png0#
 
+=======
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 CCpResource build/Release-iphoneos/Uploader.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
 s312920092.271292
 e312920092.375444
@@ -450,6 +487,7 @@ x/Users/smwbmw/Documents/Uploader/build/Uploader.build/Release-iphoneos/Uploader
 lSLF07#2@180"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/Uploader.build/Release-iphoneos/Uploader.build/Uploader.xcent310957377#310957377#0(0"0(0#0#100"/Users/smwbmw/Documents/Uploader/build/Uploader.build/Release-iphoneos/Uploader.build/Uploader.xcent2524471232#425"    cd /Users/smwbmw/Documents/Uploader    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/smwbmw/Documents/Uploader/build/Uploader.build/Release-iphoneos/Uploader.build/Uploader.xcent0#
 
 CTouch /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app
+<<<<<<< HEAD
 s311196866.886497
 e311196866.904762
 r1
@@ -460,6 +498,18 @@ lSLF07#2@74"Touch /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Upload
 CValidate /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app
 s311196866.904916
 e311196867.363759
+=======
+s312921528.856525
+e312921528.862335
+r1
+xTouch
+x/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app
+lSLF07#2@74"Touch /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app312921528#312921528#0(0"0(0#0#0"2458800064#255"    cd /Users/smwbmw/Documents/Uploader    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app0#
+
+CValidate /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app
+s311010273.656245
+e311010275.409248
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 r1
 xValidate
 x/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app
@@ -475,5 +525,9 @@ o/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app: code obje
 ofailed to extract entitlements: 1
 o - (null)
 o
+<<<<<<< HEAD
 lSLF07#2@44"Validate build/Release-iphoneos/Uploader.app311196866#311196867#0(666"warning: iPhone/iPod Touch: bg_header.png: icon dimensions (2247 x 110) don't meet the size requirements.  The icon file must be 57x57 pixels, in .png format (-19014)Unable to validate your application. - (null)warning: Info.plist does not contain a CFBundleResourceSpecification (-19015)Unable to validate your application. - (null)warning: Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)failed to extract requirements data: 1/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app: code object is not signedfailed to extract entitlements: 1 - (null)3(22@158" iPhone/iPod Touch: bg_header.png: icon dimensions (2247 x 110) don't meet the size requirements.  The icon file must be 57x57 pixels, in .png format (-19014)311196867#4294967295#0#0(6@0"311196867#0#0#0#0#0"0(22@69" Info.plist does not contain a CFBundleResourceSpecification (-19015)311196867#4294967295#0#0(6@0"311196867#0#0#0#0#0"0(22@138" Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)311196867#4294967295#0#0(6@0"311196867#0#0#0#0#0"0(0#0#68"/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app2458800064#364"    cd /Users/smwbmw/Documents/Uploader    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app0#
+=======
+lSLF07#2@44"Validate build/Release-iphoneos/Uploader.app311010273#311010275#0(666"warning: iPhone/iPod Touch: bg_header.png: icon dimensions (2247 x 110) don't meet the size requirements.  The icon file must be 57x57 pixels, in .png format (-19014)Unable to validate your application. - (null)warning: Info.plist does not contain a CFBundleResourceSpecification (-19015)Unable to validate your application. - (null)warning: Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)failed to extract requirements data: 1/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app: code object is not signedfailed to extract entitlements: 1 - (null)3(22@158" iPhone/iPod Touch: bg_header.png: icon dimensions (2247 x 110) don't meet the size requirements.  The icon file must be 57x57 pixels, in .png format (-19014)311010275#4294967295#0#0(6@0"311010275#0#0#0#0#0"0(22@69" Info.plist does not contain a CFBundleResourceSpecification (-19015)311010275#4294967295#0#0(6@0"311010275#0#0#0#0#0"0(22@138" Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)311010275#4294967295#0#0(6@0"311010275#0#0#0#0#0"0(0#0#68"/Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app4231240#364"    cd /Users/smwbmw/Documents/Uploader    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/smwbmw/Documents/Uploader/build/Release-iphoneos/Uploader.app0#
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 

@@ -112,10 +112,13 @@ N/Users/smwbmw/Documents/Uploader/build/Release-iphonesimulator/Uploader.app/bg_
 t2
 s0
 
+<<<<<<< HEAD
 N/Users/smwbmw/Documents/Uploader/build/Release-iphonesimulator/Uploader.app/pictmobi.png
 t2
 s0
 
+=======
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 N/Users/smwbmw/Documents/Uploader/build/Uploader.build/Release-iphonesimulator/Uploader.build/Objects-normal/i386/Uploader.LinkFileList
 c00000000000000000000000000000000
 t2
@@ -139,19 +142,28 @@ t1289246861
 s358
 i<UIKit/UIKit.h>
 
+<<<<<<< HEAD
 N/Users/smwbmw/Documents/Uploader/pictmobi.png
 c000000004CDC44BA00000000000013C1
 t1289503930
 s5057
 
+=======
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 N/var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-endekylnrhasdbdohjdlkdwqzfjs/Uploader_Prefix.pch.gch
 t2
 s0
 
 NUploader-Info.plist
+<<<<<<< HEAD
 c000000004CDC45420000000000000399
 t1289504066
 s921
+=======
+c000000004CF6959C000000000000039A
+t1291228572
+s922
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 
 CCompileC build/Uploader.build/Release-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o /Users/smwbmw/Documents/Uploader/Classes/UploaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -171,9 +183,12 @@ r0
 CCpResource build/Release-iphonesimulator/Uploader.app/bg_header.png bg_header.png
 r0
 
+<<<<<<< HEAD
 CCpResource build/Release-iphonesimulator/Uploader.app/pictmobi.png pictmobi.png
 r0
 
+=======
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
 CGenerateDSYMFile /Users/smwbmw/Documents/Uploader/build/Release-iphonesimulator/Uploader.app.dSYM /Users/smwbmw/Documents/Uploader/build/Release-iphonesimulator/Uploader.app/Uploader
 r0
 

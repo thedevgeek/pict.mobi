@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o
 /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o
 /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o
+=======
+/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o
+/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o
+/Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf

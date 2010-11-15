@@ -11,7 +11,11 @@
  <key>CFBundleExecutable</key>
  <string>${EXECUTABLE_NAME}</string>
  <key>CFBundleIconFile</key>
+<<<<<<< HEAD
  <string>pictmobi.png</string>
+=======
+ <string>bg_header.png</string>
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
  <key>CFBundleIdentifier</key>
  <string>com.thedevgeek.${PRODUCT_NAME:rfc1034identifier}</string>
  <key>CFBundleInfoDictionaryVersion</key>

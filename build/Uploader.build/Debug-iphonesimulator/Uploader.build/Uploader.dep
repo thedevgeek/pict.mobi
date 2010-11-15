@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 b76ac7e0fbf1bfbea676729747158f49 95e4837ae94bc553ecce7e5d2436251e ffffffffffffffffffffffffffffffff 46868 /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o
 b76ac7e0fb73d99aa6767297471584b5 2c370da13b3c8fb892d8dd17e4a5bd59 ffffffffffffffffffffffffffffffff 47884 /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o
 b76ac7e0fb4bef1ea6767297471592bf 0a845518ad3ec2a0fd714dd2774ced86 ffffffffffffffffffffffffffffffff 6292 /Users/smwbmw/Documents/Pict.Mobi/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o
@@ -26,3 +27,18 @@ ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffff
 000000004ce054c10000000000001d12 b4db8f415ff819fbf5d29d51e30e971f ffffffffffffffffffffffffffffffff 10204720 /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-fjqhwxkfsguvjzffcmahaogtxgzj/Uploader_Prefix.pch.gch
 00000000000000000000000000000000 a7538599f47bcd00fa71118875bd299a ffffffffffffffffffffffffffffffff 923 /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist
 00000000000000000000000000000000 bb8fe1a7f9f9376a1de36e1cf804d2da ffffffffffffffffffffffffffffffff 51046 /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/bg_header.png
+=======
+b4db8f41130eab77f5d29d51e30e9f6a 9a409186ccf0c31ebaacd0f7c23b93ae ffffffffffffffffffffffffffffffff 46876 /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderViewController.o
+b4db8f41139a62def5d29d51e30e94ac dcf5a45ede2c54fe245a9fa8070ef72f ffffffffffffffffffffffffffffffff 47880 /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/UploaderAppDelegate.o
+b4db8f4113a2545af5d29d51e30e82a6 b90f86c0b1095a08945f59891d0acc1b ffffffffffffffffffffffffffffffff 6292 /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Objects-normal/i386/main.o
+00000000000000000000000000000000 c52cd1f85e0134774102e2255a932890 ffffffffffffffffffffffffffffffff 102 /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app.dSYM
+e9493987d2f0b70a0333dca4b2d8f265 07d203ce7c937c7cf5bb60ca65459229 ffffffffffffffffffffffffffffffff 272 /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app
+4b613c59b0ed228eff7b8b873ad384aa 38e78f71300700b54f2cdbcaed036560 ffffffffffffffffffffffffffffffff 18160 /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Uploader
+000000004ce054c10000000000001d12 b4db8f415ff819fbf5d29d51e30e971f ffffffffffffffffffffffffffffffff 10204720 /var/folders/ct/ctDEa-+2FoSoS3yrnJ-yOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Uploader_Prefix-fjqhwxkfsguvjzffcmahaogtxgzj/Uploader_Prefix.pch.gch
+00000000000000000000000000000000 bb8fe1a7f9f9376a1de36e1cf804d2da ffffffffffffffffffffffffffffffff 51046 /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/bg_header.png
+000000004cd85d550000000000005e03 559ca966353bd5ecd414ad05b06eeea0 ffffffffffffffffffffffffffffffff 2966 /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/UploaderViewController.nib
+000000004cd8588d0000000000004e35 74dcc26e9ed8726f7a934ff02d623fe3 ffffffffffffffffffffffffffffffff 1683 /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/MainWindow.nib
+00000000000000000000000000000000 d9a7fb3ccd9b6d598bb49b99b993e4d9 ffffffffffffffffffffffffffffffff 8 /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/PkgInfo
+00000000000000000000000000000000 d9a7fb3ccd9b6d598bb49b99b993e4d9 ffffffffffffffffffffffffffffffff 633 /Users/smwbmw/Documents/Uploader/build/Debug-iphonesimulator/Uploader.app/Info.plist
+00000000000000000000000000000000 a7538599f47bcd00fa71118875bd299a ffffffffffffffffffffffffffffffff 924 /Users/smwbmw/Documents/Uploader/build/Uploader.build/Debug-iphonesimulator/Uploader.build/Preprocessed-Info.plist
+>>>>>>> 4993bc958089fdc4081f35eda331a2c8ecdd7bcf
