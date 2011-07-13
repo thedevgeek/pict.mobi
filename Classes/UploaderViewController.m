@@ -2,7 +2,7 @@
 //  UploaderViewController.m
 //
 //  Created by Steven Watson on 11/8/10.
-//  Copyright 2010 swatsons.com. All rights reserved.
+//  Copyright 2010 thedevgeek.com. All rights reserved.
 //
 
 #import "UploaderViewController.h"
